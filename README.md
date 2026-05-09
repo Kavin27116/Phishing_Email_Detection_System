@@ -64,7 +64,7 @@ CONFIDENCE: 93.50%
 ### Install Dependencies
 
 ```bash
-pip install scikit-learn pandas numpy
+pip install -r requirements.txt
 ```
 
 ### Running the Program
